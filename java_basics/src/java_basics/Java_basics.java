@@ -17,6 +17,8 @@ public class Java_basics {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("done");
+        System.out.println("tax nbo ami bhujle");
+        /* ekta line add krlm then eibar dekho magic */
     }
     
 }
